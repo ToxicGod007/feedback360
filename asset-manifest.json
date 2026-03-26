@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/feedback360/static/css/main.879ed99b.css",
+    "main.js": "/feedback360/static/js/main.500a6140.js",
+    "index.html": "/feedback360/index.html",
+    "main.879ed99b.css.map": "/feedback360/static/css/main.879ed99b.css.map",
+    "main.500a6140.js.map": "/feedback360/static/js/main.500a6140.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.879ed99b.css",
+    "static/js/main.500a6140.js"
+  ]
+}
